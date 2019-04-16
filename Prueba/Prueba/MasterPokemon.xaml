@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba.MasterPokemon">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="walazul.jpeg" Aspect="AspectFill"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Image Grid.Row="0" Source="ashok.png" WidthRequest="250" HeightRequest="200" Margin="0,60,0,30"/>
+                <StackLayout Grid.Row="1" Padding="30,20">
+                    <Label Text="ASH ERES UN MAESTRO POKÉMON" TextColor="White" FontSize="24" ></Label>
+                    
+                </StackLayout>
+
+                <StackLayout Grid.Row="2" Padding="45,20">
+                    <Button x:Name="btnend" Text="Cerrar sesión" BackgroundColor="Red" BorderRadius="20" TextColor="White"/>
+                </StackLayout>
+
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

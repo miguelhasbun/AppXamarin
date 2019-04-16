@@ -1,0 +1,13 @@
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\bin\Debug\netstandard2.0\Prueba.deps.json
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\bin\Debug\netstandard2.0\Prueba.dll
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\bin\Debug\netstandard2.0\Prueba.pdb
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\Prueba.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\Prueba.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\Prueba.dll
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\Prueba.pdb
+C:\Users\Miguel\source\repos\Prueba\Prueba\Prueba\obj\Debug\netstandard2.0\MasterPokemon.xaml.g.cs
